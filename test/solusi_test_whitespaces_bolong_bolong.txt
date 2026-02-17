@@ -1,0 +1,13 @@
+Menggunakan optimasi: One Queen Per Column
+A A A B B C C # D 
+A B B B # C E C D 
+A B B B D C # C D 
+A # A B D C C C D 
+B B B B D # D D D 
+F G G # D D H D D 
+# G I G D D H D D 
+F G # G D D H D D 
+F G G G D D H H # 
+
+Waktu Eksekusi: 15725.314 ms
+Total Iterasi: 276654213

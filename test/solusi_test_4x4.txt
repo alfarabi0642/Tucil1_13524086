@@ -1,0 +1,8 @@
+Menggunakan optimasi: Early Pruning
+A A # B 
+# A B B 
+C C D # 
+C # D D 
+
+Waktu Eksekusi: 1.162 ms
+Total Iterasi: 27
